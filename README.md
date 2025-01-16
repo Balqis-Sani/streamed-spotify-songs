@@ -24,4 +24,6 @@ The company can capitalize on the popularity of top artists like Taylor Swift an
 Enhance the Primary Streaming Mode:
 To ensure the primary streaming method remains the preferred choice, the company should focus on improving its user experience and sound quality. This could involve investing in advanced audio technology to deliver high-definition sound that appeals to audiophiles and casual listeners alike. Simplifying the user interface to make navigation more intuitive and introducing customizable features, such as personalized playback settings, could also enhance user satisfaction. Furthermore, providing detailed user tutorials or tips on how to maximize the streaming experience can make the platform more accessible to new users, fostering long-term engagement and loyalty
 
+ # PROJECT LINK
+ https://drive.google.com/drive/folders/1SAqlGgEIAkpc1pwrqd2RwcjqGoP8gES5?usp=drive_link
  
